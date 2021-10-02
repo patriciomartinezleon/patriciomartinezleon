@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @patriciomartinezleon
+- 👀 I’m interested in Angular, Xamarin, iOS-Android, Mac development
+- 🌱 I’m currently learning Angular advanced
+- 💞️ I’m looking to collaborate on Web Projects or iOS-Android with Xamarin
+- 📫 How to reach me: patricio.martinez.leon@gmail.com
